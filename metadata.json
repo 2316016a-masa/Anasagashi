@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 穴探し (Ana-Sagashi) - Research Critic AI",
+  "description": "An AI-powered academic critic that finds 'holes' in your research progress slides and presentation, acting as a sharp-tongued professor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
